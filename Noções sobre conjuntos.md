@@ -8,8 +8,8 @@
 
    * As noções mais básicas dos conjuntos são: conjunto, elemento e pertinência entre conjunto e elemento.
  
-- O que seria essa "pertinência"? Simples! É quando um elemento <b>pertence</b> a algum conjunto. Mas...o que é um conjunto? Um conjunto nada mais é que uma coleção de objetos de qualquer natureza. Digamos que você está na sala de aula, os elementos que formam esse conjunto são os alunos, o conjunto é a sala toda. Uma sala é um conjunto de alunos. Quando eu digo que Fulano pertecene à sala C, eu digo que Fulano **Є** C.
+- O que seria essa "pertinência"? Simples! É quando um elemento <b>pertence</b> a algum conjunto. Mas...o que é um conjunto? Um conjunto nada mais é que uma coleção de objetos de qualquer natureza. Digamos que você está na sala de aula, os elementos que formam esse conjunto são os alunos, o conjunto é a sala toda. Uma sala é um conjunto de alunos. Quando eu digo que Fulano pertecene à sala C, eu digo que Fulano **∈** C.
    
-        Є < símbolo de pertinência (pertence)
+        ∈ < símbolo de pertinência (pertence)
      
 E se o Fulano não pertencesse à sala C? Nós diriamos que ele ∉. Comassim?! **∉** < este é o símbolo de "não pertinência" ou seja, não pertence.
