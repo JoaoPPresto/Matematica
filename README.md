@@ -48,4 +48,4 @@
 
 ### REFERÊNCIA
 
-> CORTÊS, R. Não consigo entender matemática: por onde começo? Disponível em: <http://geniodamatematica.com.br/nao-consigo-entender-matematica-por-onde-comeco/>. Acesso em: 23 abr. 2018.
+CORTÊS, R. Não consigo entender matemática: por onde começo? Disponível em: <http://geniodamatematica.com.br/nao-consigo-entender-matematica-por-onde-comeco/>. Acesso em: 23 abr. 2018.
