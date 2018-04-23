@@ -3,7 +3,7 @@
 * Repositório para estudar matemática seguindo a sequência oferecida pelo site [Gênio da Matemática](http://geniodamatematica.com.br/).
 
 
-  * Noções sobre conjunto
+  * [Noções sobre conjunto](https://github.com/ranielcsar/Matematica/blob/master/No%C3%A7%C3%B5es%20sobre%20conjuntos.md)
   * Subconjunto
   * Sistema de numeração
   * Operações fundamentais
