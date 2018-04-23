@@ -37,3 +37,14 @@ Um conjunto pode ser representado de duas maneiras: **extensão** ou **compreens
 	* Exemplo: S = { Aluno 1, Aluno 2, Aluno 3 }
 
 S = sala
+
+
+
+
+
+
+
+
+### REFERÊNCIAS
+
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO PARÁ. Noções de conjuntos. Disponível em: <http://www.ebah.com.br/content/ABAAABLLcAE/nocoes-conjuntos>. Acesso em: 23 abr. 2018.
