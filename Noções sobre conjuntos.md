@@ -45,4 +45,6 @@ S = sala
 
 ### REFERÊNCIAS
 
-INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO PARÁ. Noções de conjuntos. Disponível em: <http://www.ebah.com.br/content/ABAAABLLcAE/nocoes-conjuntos>. Acesso em: 23 abr. 2018.
+	INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO PARÁ. Noções de conjuntos. Disponível em: <http://www.ebah.com.br/content/ABAAABLLcAE/nocoes-conjuntos>. Acesso em: 23 abr. 2018.
+
+	WIKIPEDIA. Teoria dos conjuntos. Disponível em: <https://pt.wikipedia.org/wiki/Teoria_dos_conjuntos>. Acesso em: 23 abr. 2018.
