@@ -44,3 +44,8 @@
   * Geometria plana e geometria no espaço
   * Geometria analítica
 * …a partir deste ponto você poderá estudar qualquer conteúdo, pois o seu conhecimento já permite isso!
+
+
+### REFERÊNCIA
+
+> CORTÊS, R. Não consigo entender matemática: por onde começo? Disponível em: <http://geniodamatematica.com.br/nao-consigo-entender-matematica-por-onde-comeco/>. Acesso em: 23 abr. 2018.
