@@ -1,8 +1,6 @@
 ### Teoria:
 
-  * Os fundamentos da teoria dos conjuntos foram lançados no final do século XIX, a partir dos trabalhos de George Cantor (1845-1918).
-  A partir de então, está teoria passou por um forte processo de desenvolvimento, dando suporte a diversos ramos da matemática e influenciando
-  outras áreas do conhecimento, dentre elas a Ciência da Computação. <br><br>
+  * "Teoria dos conjuntos é o ramo da matemática que estuda conjuntos, que são coleções de elementos. Embora qualquer tipo de elemento possa ser reunido em um conjunto, a teoria dos conjuntos é aplicada na maioria das vezes a elementos que são relevantes para a matemática. A linguagem da teoria dos conjuntos pode ser usada nas definições de quase todos os elementos matemáticos." (WIKIPEDIA, 2018). <br><br>
 
 ### Noções básicas:
 
