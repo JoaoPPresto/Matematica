@@ -20,7 +20,30 @@ Quer mais um exemplo? Sim? Ok! Imagine uma cesta de frutas, nessa cesta temos ma
 
 Consiste em representar graficamente os conjuntos.
 
-![alt text](https://raw.githubusercontent.com/ranielcsar/Matematica/master/imagens/digramaVenn.png "Diagrama de Venn")	
+![alt text](https://raw.githubusercontent.com/ranielcsar/Matematica/master/imagens/digramaVenn.png "Diagrama de Venn")
+
+### Relação de inclusão:
+
+A inclusão aponta que tal conjunto está **contido** (⊂) ou não (⊄) e também se tal conjunto **contém** o outro (Ɔ). Usarei como exemplo a cesta de frutas.
+
+* Exemplo:
+	* C = { maçã, banana, uva }
+	* D = { abacaxi, banana, maçã, uva, goiaba }
+	* E = { maracujá, pera } <br><br>
+
+* C **⊂** D (C está contido em D. Ou seja, todos os elementos de C **(uva, banana e maçã)** estão também em D.
+
+* E **⊄** D (E não está contido em D. Logo, nenhum dos elementos de E **(maracujá e pera)** estão em D).
+
+* B **Ɔ** A (B contém A. O conjunto B tem os elementos do conjunto A).
+
+
+### Conjunto vazio:
+
+Como já diz o nome, é um conjunto sem elemento algum. Vazio. Nada! Representado pelo símbolo **Ø** ou simplesmente duas chaves vazias **{ }**. O conjunto vazio **(Ø)** está contido **(⊂)** em todos os conjuntos.
+
+
+### União, Intersecção e Diferença entre Conjuntos:
 	
 
 ### Simbologia:
