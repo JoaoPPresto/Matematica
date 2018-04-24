@@ -43,4 +43,4 @@ Consiste em representar graficamente os conjuntos.
 
 	WIKIPÉDIA. Teoria dos conjuntos. Disponível em: <https://pt.wikipedia.org/wiki/Teoria_dos_conjuntos>. Acesso em: 23 abr. 2018.
 	
-	TODA matéria. Teoria dos Conjuntos. Disponível em: <https://www.todamateria.com.br/teoria-dos-conjuntos/>. Acesso em 24 abr. 2018.
+	TODA matéria. Teoria dos Conjuntos. Disponível em: <https://www.todamateria.com.br/teoria-dos-conjuntos/>. Acesso em: 24 abr. 2018.
