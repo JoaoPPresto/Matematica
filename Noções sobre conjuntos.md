@@ -1,6 +1,8 @@
 ### Teoria:
 
-  * "Teoria dos conjuntos é o ramo da matemática que estuda conjuntos, que são coleções de elementos. O estudo moderno da teoria dos conjuntos foi iniciado por Georg Cantor e Richard Dedekind em 1870." (WIKIPÉDIA)
+  * Os fundamentos da teoria dos conjuntos foram lançados no final do século XIX, a partir dos trabalhos de George Cantor (1845-1918).
+  A partir de então, está teoria passou por um forte processo de desenvolvimento, dando suporte a diversos ramos da matemática e influenciando
+  outras áreas do conhecimento, dentre elas a Ciência da Computação.
 
 ### Noções básicas:
 
@@ -11,6 +13,15 @@ O que seria essa "pertinência"? Simples! É quando um elemento <b>pertence</b> 
         ∈ < símbolo de pertinência (pertence)
      
 E se o Fulano não pertencesse a sala C? Nós diríamos que ele ∉. Comassim?! **∉** < este é o símbolo de "não pertinência" ou seja, não pertence.
+
+Quer mais um exemplo? Sim? Ok! Imagine uma cesta de frutas, nessa cesta temos maçã, banana e uva. Iremos representar a cesta como o conjunto C, as frutas serão os elementos desse conjunto. Ou seja: C = { maçã, banana, uva }.
+
+### Diagrama de Venn (Euler-Vem):
+
+Consiste em representar graficamente os conjuntos.
+
+![alt text](https://raw.githubusercontent.com/ranielcsar/Matematica/master/imagens/digramaVenn.png "Diagrama de Venn")	
+	
 
 ### Simbologia:
 
@@ -26,25 +37,10 @@ E se o Fulano não pertencesse a sala C? Nós diríamos que ele ∉. Comassim?! 
 	União: ∪
 	Intersecção: ∩
 
-### Representação:
-
-Um conjunto pode ser representado de duas maneiras: **extensão** ou **compreensão**.
-
-* Na extensão, os elementos são colocados entre **{** chaves **}** e separados por vírgula.
-
-	* Exemplo: S = { Aluno 1, Aluno 2, Aluno 3 }
-
-S = sala
-
-
-
-
-
-
-
-
 ### REFERÊNCIAS
 
 	INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO PARÁ. Noções de conjuntos. Disponível em: <http://www.ebah.com.br/content/ABAAABLLcAE/nocoes-conjuntos>. Acesso em: 23 abr. 2018.
 
-	WIKIPEDIA. Teoria dos conjuntos. Disponível em: <https://pt.wikipedia.org/wiki/Teoria_dos_conjuntos>. Acesso em: 23 abr. 2018.
+	WIKIPÉDIA. Teoria dos conjuntos. Disponível em: <https://pt.wikipedia.org/wiki/Teoria_dos_conjuntos>. Acesso em: 23 abr. 2018.
+	
+	TODA matéria. Teoria dos Conjuntos. Disponível em: <https://www.todamateria.com.br/teoria-dos-conjuntos/>. Acesso em 24 abr. 2018.
