@@ -4,7 +4,7 @@
 
 
   * [Noções sobre conjunto](https://github.com/ranielcsar/Matematica/blob/master/No%C3%A7%C3%B5es%20sobre%20conjuntos.md)
-  * Subconjunto
+  * [Subconjunto](https://github.com/ranielcsar/Matematica/blob/master/Subconjuntos.md)
   * Sistema de numeração
   * Operações fundamentais
   * Propriedades de adição, multiplicação, subtração e divisão
