@@ -3,9 +3,9 @@
 * Repositório para estudar matemática seguindo a sequência oferecida pelo site [Gênio da Matemática](http://geniodamatematica.com.br/).
 
 
-  * [Noções sobre conjunto](https://github.com/ranielcsar/Matematica/blob/master/No%C3%A7%C3%B5es%20sobre%20conjuntos.md)
+  * [Noções sobre conjunto](https://github.com/ranielcsar/Matematica/blob/master/No%C3%A7%C3%B5es-sobre-conjuntos.md)
   * [Subconjunto](https://github.com/ranielcsar/Matematica/blob/master/Subconjuntos.md)
-  * [Sistema de numeração](https://github.com/ranielcsar/Matematica/blob/master/Sistema-de-Numeracao.md)
+  * [Sistema de numeração](https://github.com/ranielcsar/Matematica/blob/master/Sistema-de-numeracao.md)
   * Operações fundamentais
   * Propriedades de adição, multiplicação, subtração e divisão
   * Expressões aritméticas
