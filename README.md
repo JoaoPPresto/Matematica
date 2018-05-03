@@ -7,7 +7,7 @@
   * [Subconjunto](https://github.com/ranielcsar/Matematica/blob/master/Subconjuntos.md)
   * [Sistema de numeração](https://github.com/ranielcsar/Matematica/blob/master/Sistema-de-numeracao.md)
   * [Operações fundamentais](https://github.com/ranielcsar/Matematica/blob/master/Opera%C3%A7%C3%B5es-fundamentais.md)
-  * Propriedades de adição, multiplicação, subtração e divisão
+  * [Propriedades de adição, multiplicação, subtração e divisão](https://github.com/ranielcsar/Matematica/blob/master/Propriedades.md)
   * Expressões aritméticas
   * Múltiplos e divisores
   * Número primo
