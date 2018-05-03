@@ -23,7 +23,9 @@ Ao contrário da adição, a subtração faz com que a gente diminua dois ou mai
 	* 3 - 2 = 1 <br>
 
 * Se eu comer essa outra, eu acabo ficando sem coxinhas. :(
-	* 1 - 1 = 0 <br><br>
+	* 1 - 1 = 0 <br>
+	
+Na substração sempre se coloca o maior número primeiro. <br><br>
   
 ________________________
 
