@@ -1,6 +1,8 @@
 ### Teoria:
 
-  * "Teoria dos conjuntos é o ramo da matemática que estuda conjuntos, que são coleções de elementos. Embora qualquer tipo de elemento possa ser reunido em um conjunto, a teoria dos conjuntos é aplicada na maioria das vezes a elementos que são relevantes para a matemática. A linguagem da teoria dos conjuntos pode ser usada nas definições de quase todos os elementos matemáticos." (WIKIPEDIA, 2018). <br><br>
+  * "Teoria dos conjuntos é o ramo da matemática que estuda conjuntos, que são coleções de elementos. Embora qualquer tipo de elemento possa ser reunido em um conjunto, a teoria dos conjuntos é aplicada na maioria das vezes a elementos que são relevantes para a matemática. A linguagem da teoria dos conjuntos pode ser usada nas definições de quase todos os elementos matemáticos." (WIKIPEDIA, 2018). <br>
+  
+___
 
 ### Noções básicas:
 
@@ -12,7 +14,9 @@ O que seria essa "pertinência"? Simples! É quando um elemento <b>pertence</b> 
      
 E se o Fulano não pertencesse a sala C? Nós diríamos que ele ∉. Comassim?! **∉** < este é o símbolo de "não pertinência" ou seja, não pertence.
 
-Quer mais um exemplo? Sim? Ok! Imagine uma cesta de frutas, nessa cesta temos maçã, banana e uva. Iremos representar a cesta como o conjunto C, as frutas serão os elementos desse conjunto. Ou seja: C = { maçã, banana, uva }. <br><br>
+Quer mais um exemplo? Sim? Ok! Imagine uma cesta de frutas, nessa cesta temos maçã, banana e uva. Iremos representar a cesta como o conjunto C, as frutas serão os elementos desse conjunto. Ou seja: C = { maçã, banana, uva }. <br>
+
+___
 
 ### Diagrama de Venn (Euler-Vem):
 
@@ -20,7 +24,7 @@ Consiste em representar graficamente os conjuntos.
 
 ![alt text](https://raw.githubusercontent.com/ranielcsar/Matematica/master/imagens/digrama.png "Diagrama de Venn") <br><br>
 
-
+___
 
 ### Relação de inclusão:
 
@@ -35,11 +39,15 @@ A inclusão aponta que tal conjunto está **contido** (⊂) ou não (⊄) e tamb
 
 * E **⊄** D (E não está contido em D. Logo, nenhum dos elementos de E **(maracujá e pera)** estão em D).
 
-* B **Ɔ** A (B contém A. O conjunto B tem os elementos do conjunto A). <br><br>
+* B **Ɔ** A (B contém A. O conjunto B tem os elementos do conjunto A). <br>
+
+___
 
 ### Conjunto vazio:
 
-Como já diz o nome, é um conjunto sem elemento algum. Vazio. Nada! Representado pelo símbolo **Ø** ou simplesmente duas chaves vazias **{ }**. O conjunto vazio **(Ø)** está contido **(⊂)** em todos os conjuntos. <br><br>
+Como já diz o nome, é um conjunto sem elemento algum. Vazio. Nada! Representado pelo símbolo **Ø** ou simplesmente duas chaves vazias **{ }**. O conjunto vazio **(Ø)** está contido **(⊂)** em todos os conjuntos. <br>
+
+___
 
 
 ### União, Intersecção e Diferença entre Conjuntos:
@@ -89,7 +97,9 @@ A igualdade de conjuntos é quando os conjuntos têm os mesmos elementos.
 	* C = { maçã, banana, uva }
 	* D = { maçã, banana, uva }
 
-Ou seja: C = D. <br><br>
+Ou seja: C = D. <br>
+
+___
 
 
 ### Conjuntos numéricos:
@@ -117,6 +127,8 @@ Ou seja: C = D. <br><br>
 	Tal que: /
 	União: ∪
 	Intersecção: ∩
+	
+___
 
 ### REFERÊNCIAS
 
