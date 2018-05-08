@@ -134,6 +134,6 @@ ___
 
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO PARÁ. Noções de conjuntos. Disponível em: <http://www.ebah.com.br/content/ABAAABLLcAE/nocoes-conjuntos>. Acesso em: 23 abr. 2018.
 
-WIKIPÉDIA. Teoria dos conjuntos. Disponível em: <https://pt.wikipedia.org/wiki/Teoria_dos_conjuntos>. Acesso em: 23 abr. 2018.
-	
 TODA MATÉRIA. Teoria dos Conjuntos. Disponível em: <https://www.todamateria.com.br/teoria-dos-conjuntos/>. Acesso em: 24 abr. 2018.
+
+WIKIPÉDIA. Teoria dos conjuntos. Disponível em: <https://pt.wikipedia.org/wiki/Teoria_dos_conjuntos>. Acesso em: 23 abr. 2018.
