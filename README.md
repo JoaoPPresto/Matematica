@@ -8,7 +8,7 @@
   * [Sistema de numeração](https://github.com/ranielcsar/Matematica/blob/master/Sistema-de-numeracao.md)
   * [Operações fundamentais](https://github.com/ranielcsar/Matematica/blob/master/Opera%C3%A7%C3%B5es-fundamentais.md)
   * [Propriedades de adição, multiplicação, subtração e divisão](https://github.com/ranielcsar/Matematica/blob/master/Propriedades.md)
-  * Expressões aritméticas
+  * [Expressões aritméticas](https://github.com/ranielcsar/Matematica/blob/master/Express%C3%B5es.md)
   * Múltiplos e divisores
   * Número primo
   * Potenciação
