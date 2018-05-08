@@ -89,6 +89,6 @@ Assim como a subtração, ela não possui propriedades. O número neutro da divi
 
 ### REFERÊNCIAS
 
-	 M. ROBERTO. As quatro operações fundamentais da aritmética e sua nomenclatura. Disponível em: <https://www.sofazquemsabe.com/2012/05/as-quatro-operacoes-fundamentais-da.html>. Acesso em: 03 maio. 2018.
+M. ROBERTO. As quatro operações fundamentais da aritmética e sua nomenclatura. Disponível em: <https://www.sofazquemsabe.com/2012/05/as-quatro-operacoes-fundamentais-da.html>. Acesso em: 03 maio. 2018.
 
-	 SILVA, L. P. M. Propriedades da multiplicação e da adição para o cálculo mental. Disponível em: <http://mundoeducacao.bol.uol.com.br/matematica/propriedades-multiplicacao-adicao-para-calculo-mental.htm>. Acesso em: 03 maio. 2018.
+SILVA, L. P. M. Propriedades da multiplicação e da adição para o cálculo mental. Disponível em: <http://mundoeducacao.bol.uol.com.br/matematica/propriedades-multiplicacao-adicao-para-calculo-mental.htm>. Acesso em: 03 maio. 2018.
