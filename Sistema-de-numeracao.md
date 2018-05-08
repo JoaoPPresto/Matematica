@@ -25,8 +25,9 @@ As quantidades são agrupadas de 10 em 10:
 > Figura 2: Exemplo de agrupamento <br>
 > Fonte: https://static.todamateria.com.br/upload/nu/me/numero1.jpg
 
-<br><br>
+___
+
 ### REFERÊNCIAS
 
-> TODA matéria. Sistema de numeração decimal. Disponível em: <https://www.todamateria.com.br/sistema-de-numeracao-decimal/>. Acesso em: 25 abr. 2018.
+TODA MATÉRIA. Sistema de numeração decimal. Disponível em: <https://www.todamateria.com.br/sistema-de-numeracao-decimal/>. Acesso em: 25 abr. 2018.
 
