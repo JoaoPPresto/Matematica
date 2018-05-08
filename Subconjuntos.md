@@ -22,9 +22,10 @@ Para indicar esta relação usamos:
 	* B ⊂ A : “B está contido em A”
 	* A ⊃ B: “A contém B”
 <br><br>
-<br><br>
+
+___
 
 
 ### REFERÊNCIAS
 
-	MATIKA. Subconjuntos: relação de inclusão. Disponível em: <https://matika.com.br/conjuntos/subconjuntos-relacao-de-inclusao>. Acesso em: 25 abr. 2018.
+MATIKA. Subconjuntos: relação de inclusão. Disponível em: <https://matika.com.br/conjuntos/subconjuntos-relacao-de-inclusao>. Acesso em: 25 abr. 2018.
