@@ -9,8 +9,8 @@
   * [Operações fundamentais](https://github.com/ranielcsar/Matematica/blob/master/Opera%C3%A7%C3%B5es-fundamentais.md)
   * [Propriedades de adição, multiplicação, subtração e divisão](https://github.com/ranielcsar/Matematica/blob/master/Propriedades.md)
   * [Expressões aritméticas](https://github.com/ranielcsar/Matematica/blob/master/Express%C3%B5es.md)
-  * Múltiplos e divisores
-  * Número primo
+  * [Múltiplos e divisores](https://github.com/ranielcsar/Matematica/blob/master/Multiplos-Divisores.md)
+  * Números primos
   * Potenciação
   * Máximo divisor comum
   * Mínimo múltiplo comum
