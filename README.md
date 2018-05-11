@@ -10,7 +10,7 @@
   * [Propriedades de adição, multiplicação, subtração e divisão](https://github.com/ranielcsar/Matematica/blob/master/Propriedades.md)
   * [Expressões aritméticas](https://github.com/ranielcsar/Matematica/blob/master/Express%C3%B5es.md)
   * [Múltiplos e divisores](https://github.com/ranielcsar/Matematica/blob/master/Multiplos-Divisores.md)
-  * Números primos
+  * [Números primos](https://github.com/ranielcsar/Matematica/blob/master/Primos.md)
   * Potenciação
   * Máximo divisor comum
   * Mínimo múltiplo comum
