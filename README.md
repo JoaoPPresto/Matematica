@@ -3,15 +3,15 @@
 * Repositório para estudar matemática seguindo a sequência oferecida pelo site [Gênio da Matemática](http://geniodamatematica.com.br/).
 
 
-  * [Noções sobre conjunto](https://github.com/ranielcsar/Matematica/blob/master/No%C3%A7%C3%B5es-sobre-conjuntos.md)
-  * [Subconjunto](https://github.com/ranielcsar/Matematica/blob/master/Subconjuntos.md)
-  * [Sistema de numeração](https://github.com/ranielcsar/Matematica/blob/master/Sistema-de-numeracao.md)
-  * [Operações fundamentais](https://github.com/ranielcsar/Matematica/blob/master/Opera%C3%A7%C3%B5es-fundamentais.md)
-  * [Propriedades de adição, multiplicação, subtração e divisão](https://github.com/ranielcsar/Matematica/blob/master/Propriedades.md)
-  * [Expressões aritméticas](https://github.com/ranielcsar/Matematica/blob/master/Express%C3%B5es.md)
-  * [Múltiplos e divisores](https://github.com/ranielcsar/Matematica/blob/master/Multiplos-Divisores.md)
-  * [Números primos](https://github.com/ranielcsar/Matematica/blob/master/Primos.md)
-  * Potenciação
+  * [Noções sobre conjunto](https://github.com/ranielcsar/Matematica/blob/master/No%C3%A7%C3%B5es-sobre-conjuntos.md "Conjuntos")
+  * [Subconjunto](https://github.com/ranielcsar/Matematica/blob/master/Subconjuntos.md "Subconjuntos")
+  * [Sistema de numeração](https://github.com/ranielcsar/Matematica/blob/master/Sistema-de-numeracao.md "Sistema de numeração")
+  * [Operações fundamentais](https://github.com/ranielcsar/Matematica/blob/master/Opera%C3%A7%C3%B5es-fundamentais.md "Operações fundamentais")
+  * [Propriedades de adição, multiplicação, subtração e divisão](https://github.com/ranielcsar/Matematica/blob/master/Propriedades.md "Propriedades")
+  * [Expressões aritméticas](https://github.com/ranielcsar/Matematica/blob/master/Express%C3%B5es.md "Expressões")
+  * [Múltiplos e divisores](https://github.com/ranielcsar/Matematica/blob/master/Multiplos-Divisores.md "x ÷")
+  * [Números primos](https://github.com/ranielcsar/Matematica/blob/master/Primos.md "Primos")
+  * [Potenciação](https://github.com/ranielcsar/Matematica/blob/master/Potencia.md "Aô potência")
   * Máximo divisor comum
   * Mínimo múltiplo comum
   * Fração ou número fracionário
