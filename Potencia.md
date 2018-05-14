@@ -13,9 +13,9 @@ A **base** nos diz qual número será multiplicado. O **expoente** nos diz quant
 
 * <b>Exemplo</b>
 
-	* 2³ = 2 x 2 x 2 (dois elevadodo à 3ª potência)
-	* 2³ = 4 x 2
-	* 2³ = 8
+	* 2<sup>3</sup> = 2 x 2 x 2 (dois elevadodo à 3ª potência)
+	* 2<sup>3</sup> = 4 x 2
+	* 2<sup>3</sup> = 8
 
 <br>
 
@@ -26,22 +26,22 @@ ___
 * Toda potência com expoente 0, o resultado sempre será 1.
 * Toda potência com expoente igual 1, o resultado será a própria base.
 
-	* 5¹ = 5
+	* 5<sup>1</sup> = 5
 
 * Quando a base for negativa e o expoente um número ímpar, o resultado será negativo.
 
-	* (-5)³ = (-5) x (-5) x (-5)
-	* (-5)³ = - 125
+	* (-5)<sup>3</sup> = (-5) x (-5) x (-5)
+	* (-5)<sup>3</sup> = - 125
 	
 * Quando o expoente for negativo, inverte-se a base e muda-se o sinal do expoente para positivo.
 
-	* (-5)² = (-5) x (-5)
-	* (-5)² = 25
+	* (-5)<sup>2</sup> = (-5) x (-5)
+	* (-5)<sup>2</sup> = 25
 
 * Nas frações, tanto o numerador quanto o denominador ficam elevados ao expoente.
 
-	* (3/5)² = (3² / 5²)
-	* (3/5)² = 9/25
+	* (3/5)<sup>2</sup> = (3<sup>2</sup> / 5<sup>2</sup>)
+	* (3/5)<sup>2</sup> = 9/25
 
 <br>
 
@@ -52,26 +52,26 @@ ___
 
 Na multiplicação, quando temos base de números iguais, mantemos a base e somamos os expoentes:
 
-* <b>5² x 5¹</b>
-	* 5³
+* <b>5<sup>4</sup> x 5<sup>1</sup></b>
+* 5<sup>3</sup>
 
 Na divisão, subtraímos o expoente:
 
-* <b>5³ ÷ 5²</b>
-	* 5¹
+* <b>5<sup>4</sup> ÷ 5<sup>2</sup></b>
+* 5<sup>1</sup>
 
 
 ### Potência de um produto:
 
 O expoente que está fora dos parênteses, será o expoente dos fatores.
 
-(4 . 5)³ = (4³ . 5³)
+(4 x 5)<sup>3</sup> = (4<sup>3</sup> x 5<sup>3</sup>)
 
 ### Potência de expoentes iguais:
 
 Quando os expoentes forem iguais, conserva o expoente e multiplica a base.
 
-5<sup>2</sup> x 6<sup>2</sup> = (5.6)<sup>2</sup>
+5<sup>2</sup> x 6<sup>2</sup> = (5 x 6)<sup>2</sup>
 
 
 ___
