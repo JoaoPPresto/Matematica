@@ -58,7 +58,7 @@ Na multiplicação, quando temos base de números iguais, mantemos a base e soma
 Na divisão, subtraímos o expoente:
 
 * <b>5<sup>4</sup> ÷ 5<sup>2</sup></b>
-* 5<sup>1</sup>
+* 5<sup>2</sup>
 
 
 ### Potência de um produto:
