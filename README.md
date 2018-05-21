@@ -12,7 +12,7 @@
   * [Múltiplos e divisores](https://github.com/ranielcsar/Matematica/blob/master/Multiplos-Divisores.md "x ÷")
   * [Números primos](https://github.com/ranielcsar/Matematica/blob/master/Primos.md "Primos")
   * [Potenciação](https://github.com/ranielcsar/Matematica/blob/master/Potencia.md "Aô potência")
-  * Máximo divisor comum
+  * [Máximo divisor comum](https://github.com/ranielcsar/Matematica/blob/master/MDC.md "MDC da minha vida")
   * Mínimo múltiplo comum
   * Fração ou número fracionário
   * Números decimais (operações)
