@@ -14,8 +14,9 @@ Para calcular o <b>MDC</b> de dois ou mais números, devemos fatorar os números
 
 	* MDC de 20 e 24: <br>
 
-	*	|  20  |  24  |  *2*  |
+	*	|  N1  |  N2  |   ÷   |
 		|:----:|:----:| :---: |
+		|  20  |  24  |  *2*  |		
 		|  10  |  12  |  *2*  |
 		|  5   |   6  |  *2*  |
 		|  5   |   3  |  *3*  |
@@ -24,7 +25,7 @@ Para calcular o <b>MDC</b> de dois ou mais números, devemos fatorar os números
 
 <br>
 
-Feito a fatoração, pegamos os números que dividiu ao mesmo tempo **20** e **24**. Ou seja, pegaremos o primeiro divisor que foi **2** depois o outro **2** que fez a segunda divisão. Após a segunda divisão, o número 2 só conseguiu dividir um número, que foi o **6**.
+Feito a fatoração, pegamos os números que dividiu ao mesmo tempo **N1** e **N2**. Ou seja, pegaremos o primeiro divisor que foi **2** depois o outro **2** que fez a segunda divisão. Após a segunda divisão, o número 2 só conseguiu dividir um número, que foi o **6**.
 
 Multiplicamos **2 x 2** que resulta em **4**. Ou seja, o **MDC** de 20 e 24 é: **4**.
 
@@ -32,8 +33,9 @@ Multiplicamos **2 x 2** que resulta em **4**. Ou seja, o **MDC** de 20 e 24 é: 
 
 	* MDC de 18 e 60: <br>
 
-	*	|  18  |  60  |  *2*  |
+	*	|  N1  |  N2  |   ÷   |
 		|:----:|:----:| :---: |
+		|  18  |  60  |  *2*  |		
 		|  9   |  30  |  *2*  |
 		|  9   |  15  |  *3*  |
 		|  3   |   5  |  *3*  |
