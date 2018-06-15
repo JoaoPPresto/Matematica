@@ -13,7 +13,7 @@
   * [Números primos](https://github.com/ranielcsar/Matematica/blob/master/Primos.md "Primos")
   * [Potenciação](https://github.com/ranielcsar/Matematica/blob/master/Potencia.md "Aô potência")
   * [Máximo divisor comum](https://github.com/ranielcsar/Matematica/blob/master/MDC.md "MDC da minha vida")
-  * Mínimo múltiplo comum
+  * [Mínimo múltiplo comum](https://github.com/ranielcsar/Matematica/blob/master/MMC.md "mê mê cê")
   * Fração ou número fracionário
   * Números decimais (operações)
   * Sistema métrico
