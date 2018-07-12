@@ -41,3 +41,9 @@ Ou seja, **180** é o mínimo múltiplo comum (**MMC**) de 12 e 45!
 **MMC**: 2 x 3 x 5 = 30
 
 Nesse caso usamos primeiro o 2, porque é o menor número *primo* que divide um dos números. No caso, 10.
+
+___
+
+### REFERÊNCIAS:
+
+TODA MATÉRIA. Mmc - mínimo múltiplo comum. Disponível em: <https://www.todamateria.com.br/mmc-minimo-multiplo-comum/>. Acesso em: 12 jul. 2018.
