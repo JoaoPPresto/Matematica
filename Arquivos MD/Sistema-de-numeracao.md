@@ -1,4 +1,4 @@
-### Sistema de numeração decimal:
+### SISTEMA DE NUMERAÇÃO DECIMAL
 
 O sistema decimal utiliza 10 símbolos (ou algarismos) para representar todos os números. São eles: **0, 1, 2, 3, 4, 5, 6, 7, 8** e **9**. Com esses números podemos formar vários outros número.
 
@@ -14,9 +14,9 @@ Concebido pelos hindus e divulgado pelos árabes, no ocidente, ele também é ch
 <br><br>
 As quantidades são agrupadas de 10 em 10:
 
-* 10 unidades = 1 dezena
-* 10 dezenas = 1 centena
-* 10 centenas = 1 unidade de milhar (e por aí vai)
+- 10 unidades = 1 dezena
+- 10 dezenas = 1 centena
+- 10 centenas = 1 unidade de milhar (e por aí vai)
 
 ### Exemplo:
 
@@ -30,4 +30,3 @@ ___
 ### REFERÊNCIAS
 
 TODA MATÉRIA. Sistema de numeração decimal. Disponível em: <https://www.todamateria.com.br/sistema-de-numeracao-decimal/>. Acesso em: 25 abr. 2018.
-
