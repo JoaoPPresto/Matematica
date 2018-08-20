@@ -1,3 +1,7 @@
+<h1 align = "center"> SUBCONJUNTOS </h1>
+
+<br>
+
 ### UM CONJUNTO PODE TER VÁRIOS SUBCONJUNTOS
 
 Mas, comassim?! Quando temos um conjunto A = { 1, 2, 3, 4, 5 }, por exemplo, e B = { 1, 2, 3 } dizemos que B é subconjunto de A. Ainda não entendeu o porquê? Continue lendo e você entenderá. Não é um bicho de sete cabeças.
