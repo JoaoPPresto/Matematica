@@ -1,4 +1,6 @@
-### SISTEMA DE NUMERAÇÃO DECIMAL
+<h1 align = "center"> SISTEMA DE NUMERAÇÃO DECIMAL </h1>
+
+<br>
 
 O sistema decimal utiliza 10 símbolos (ou algarismos) para representar todos os números. São eles: **0, 1, 2, 3, 4, 5, 6, 7, 8** e **9**. Com esses números podemos formar vários outros número.
 
