@@ -1,9 +1,6 @@
 <h1 align = "center"> OPERAÇÕES BÁSICAS </h1>
 
 <p align = "center">As operações básicas da matemática são: adição, subtração, multiplicação e divisão. </p>
-<br>
-
-___
 
 ### ADIÇÃO
 
