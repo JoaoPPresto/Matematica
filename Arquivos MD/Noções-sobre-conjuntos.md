@@ -1,3 +1,6 @@
+<h1 align = "center"> CONJUNTOS </h1>
+
+
 ### TEORIA
 
   - "Teoria dos conjuntos é o ramo da matemática que estuda conjuntos, que são coleções de elementos. Embora qualquer tipo de elemento possa ser reunido em um conjunto, a teoria dos conjuntos é aplicada na maioria das vezes a elementos que são relevantes para a matemática. A linguagem da teoria dos conjuntos pode ser usada nas definições de quase todos os elementos matemáticos." (WIKIPEDIA, 2018). <br>
