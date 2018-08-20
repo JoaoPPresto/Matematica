@@ -2,7 +2,7 @@
 
 <br>
 
-### Termos e propriedades da adição:
+### TERMOS E PROPRIEDADES DA ADIÇÃO
 
 Na adição existem os seguintes termos: **parcela** e **soma**.
 
@@ -36,7 +36,7 @@ Por fim a propriedade do elemento **neutro**, que diz que 0 (zero) não altera e
 
 ___
 
-### Termos e propriedades da subtração:
+### TERMOS E PROPRIEDADES DA SUBTRAÇÃO
 
 Na subtração existem os seguintes termos: **minuendo**, **subtraendo** e **resto (ou diferença)**.
 
@@ -54,7 +54,7 @@ Caso o 30 ficasse primeiro que o 100, daria um número negativo.
 
 ___
 
-### Termos e propriedades da multiplicação:
+### TERMOS E PROPRIEDADES DA MULTIPLICAÇÃO
 
 Na multiplicação existem os seguintes termos: **fator** e **produto**.
 
@@ -69,7 +69,7 @@ As propriedades da multiplicação são as mesmas da adição. O único diferenc
 
 ___
 
-### Termos e propriedades da multiplicação:
+### TERMOS E PROPRIEDADES DA DIVISÃO
 
 Na divisão existem os seguintes termos: **dividendo**, **divisor**, **quociente** e **resto**.
 
