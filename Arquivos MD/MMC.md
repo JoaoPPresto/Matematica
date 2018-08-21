@@ -1,18 +1,20 @@
-### MMC (mínimo múltiplo comum):
+<h1 align = "center">MMC (Mínimo Múltiplo Comum)</h1>
+
+<br>
 
 É o menor número inteiro positivo que é múltiplo ao mesmo tempo de dois ou mais números. **Não** pode ser zero!
 
 ___
 
-### Como achar o MMC:
+### COMO ACHAR O MMC:
 
 Para acharmos o MMC de dois ou mais números, precisamos **fatorar** esses números. Ou seja, precisamos decompor, ir diminuindo um por um, ir fatiando o número usando a divisão.
 
-* Exemplo<sup>1</sup>:
+- Exemplo<sup>1</sup>:
 
-	* **MMC** de 12 e 45:
+	- **MMC** de 12 e 45:
 	
-	* 	|  12  |  45  |   2   |
+	- 	|  12  |  45  |   2   |
 		|:----:|:----:| :---: |
 		|  6   |  45  |  *2*  |
 		|  3   |  45  |  *2*  |
@@ -23,16 +25,16 @@ Para acharmos o MMC de dois ou mais números, precisamos **fatorar** esses núme
 
 Após fatorarmos os números, pegamos todos os números que usamos para dividir e multiplicamos:
 
-* 2 x 2 x 3 x 3 x 5 = **180**.
+- 2 x 2 x 3 x 3 x 5 = **180**.
 
 Ou seja, **180** é o mínimo múltiplo comum (**MMC**) de 12 e 45!
 
 
-* Exemplo<sup>2</sup>:
+- Exemplo<sup>2</sup>:
 
-	* **MMC** de 3, 5 e 10:
+	- **MMC** de 3, 5 e 10:
 
-	* |  3  |  5  |  10  |  2  |
+	- |  3  |  5  |  10  |  2  |
 	  |:---:|:---:|:----:| :-: |
 	  |  3  |  5  |   5  | *3* |
 	  |  1  |  5  |   5  | *5* |
