@@ -1,20 +1,22 @@
-### MDC (Máximo divisor comum):
+<h1 align = "center">MDC (Máximo Divisor Comum)</h1>
+
+<br>
 
 O MDC é o maior número divisível entre dois ou mais números. O MDC é o produto (resultado da multiplicação) comuns a eles.
 
-* 12 e 18 tem <b>MDC</b> = 6.
+- 12 e 18 tem **MDC** = 6.
 
 ___ 
 
-### Como calcular o MDC:
+### COMO CALCULAR O MDC
 
 Para calcular o <b>MDC</b> de dois ou mais números, devemos fatorar os números.
 
-* <b>Exemplo<sup>1</sup>:</b>
+- **Exemplo<sup>1</sup>:**
 
-	* MDC de 20 e 24: <br>
+	- MDC de 20 e 24: <br>
 
-	*	|  N1  |  N2  |   ÷   |
+	-	|  N1  |  N2  |   ÷   |
 		|:----:|:----:| :---: |
 		|  20  |  24  |  *2*  |		
 		|  10  |  12  |  *2*  |
@@ -29,11 +31,11 @@ Feito a fatoração, pegamos os números que dividiu ao mesmo tempo **N1** e **N
 
 Multiplicamos **2 x 2** que resulta em **4**. Ou seja, o **MDC** de 20 e 24 é: **4**.
 
-* <b>Exemplo<sup>2</sup>:</b>
+- **Exemplo<sup>2</sup>:**
 
-	* MDC de 18 e 60: <br>
+	- MDC de 18 e 60: <br>
 
-	*	|  N1  |  N2  |   ÷   |
+	-	|  N1  |  N2  |   ÷   |
 		|:----:|:----:| :---: |
 		|  18  |  60  |  *2*  |		
 		|  9   |  30  |  *2*  |
