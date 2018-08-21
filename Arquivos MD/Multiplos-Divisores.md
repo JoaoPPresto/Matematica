@@ -1,14 +1,14 @@
-### Múltiplos e divisores:
+<h1 align = "center">MÚLTIPLOS E DIVISORES</h1>
+
+<br>
 
 Os múltiplos e divisores estão relacionados. Mas como?! Da seguinte maneira:
 
-* 15 ÷ 3 = 5 (resto 0. Ou seja, divisão exata)
+- 15 ÷ 3 = 5 (resto 0. Ou seja, divisão exata)
 
-	* Logo: 3 é **divisor** de 15 e 15 é **múltiplo** de 3.
+	- Logo: 3 é **divisor** de 15 e 15 é **múltiplo** de 3.
 
 Por que o 15 é múltiplo de 3? Porque **3 x 5** = **15**.
-
-<br>
 
 Ou seja, sempre que o resultado da divisão de um número com outro, for exata, esses números serão tanto divisor quanto múltiplo entre si.
 
@@ -17,19 +17,14 @@ Ou seja, sempre que o resultado da divisão de um número com outro, for exata, 
 	* 70 ÷ 10 = 7
 	* Logo: 10 é **divisor** de 70 e 70 é **múltiplo** de 7.
 	* 7 x 10 = 70
-
-<br>
-
+	
 ___
 
-### Observações:
+### OBSERVAÇÕES
 
-* o número 1 é o menor **divisor** de todos os números;
-* o próprio número sempre é o seu maior **divisor**;
-* zero não é **divisor** de nenhum número.
-
-
-<br>
+- o número 1 é o menor **divisor** de todos os números;
+- o próprio número sempre é o seu maior **divisor**;
+- zero não é **divisor** de nenhum número.
 
 ___
 
