@@ -1,4 +1,6 @@
-### Números primos:
+<h1 align = "center">NÚMEROS PRIMOS</h1>
+
+<br>
 
 Números primos são aqueles que só possuem dois divisores: 1 e ele mesmo.
 
