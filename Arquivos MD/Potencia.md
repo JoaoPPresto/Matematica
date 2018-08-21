@@ -1,81 +1,79 @@
-### Potenciação:
+<h1 align = "center">POTENCIAÇÃO</h1>
+
+<br>
 
 A potenciação é aplicada quando um número é multiplicado várias vezes por ele mesmo.<br>
 Sua fórmula consiste em:
 
 ![alt text](https://raw.githubusercontent.com/ranielcsar/Matematica/master/imagens/potencia.png "Fórmula")
 
-* Onde:
-	* b = **base**
-	* e = **expoente**
+- Onde:
+	- b = **base**
+	- e = **expoente**
 
 A **base** nos diz qual número será multiplicado. O **expoente** nos diz quantas vezes esse número será multiplicado.
 
-* <b>Exemplo</b>
+- **Exemplo**
 
-	* 2<sup>3</sup> = 2 x 2 x 2 (dois elevadodo à 3ª potência)
-	* 2<sup>3</sup> = 4 x 2
-	* 2<sup>3</sup> = 8
-
-<br>
+	- 2<sup>3</sup> = 2 x 2 x 2 (dois elevadodo à 3ª potência)
+	- 2<sup>3</sup> = 4 x 2
+	- 2<sup>3</sup> = 8
 
 ___
 
-### Propriedades da potenciação:
+### PROPRIEDADAS DA POTENCIAÇÃO
 
-* Toda potência com expoente 0, o resultado sempre será 1.
-* Toda potência com expoente igual 1, o resultado será a própria base.
+- Toda potência com expoente 0, o resultado sempre será 1.
+- Toda potência com expoente igual 1, o resultado será a própria base.
 
-	* 5<sup>1</sup> = 5
+	- 5<sup>1</sup> = 5
 
-* Quando a base for negativa e o expoente um número ímpar, o resultado será negativo.
+- Quando a base for negativa e o expoente um número ímpar, o resultado será negativo.
 
-	* (-5)<sup>3</sup> = (-5) x (-5) x (-5)
-	* (-5)<sup>3</sup> = - 125
+	- (-5)<sup>3</sup> = (-5) x (-5) x (-5)
+	- (-5)<sup>3</sup> = - 125
 	
-* Quando o expoente for negativo, inverte-se a base e muda-se o sinal do expoente para positivo.
+ 	- | base negativa + expoente impar = resultado negativo
+   	  |-
+	
+- Quando o expoente for negativo, inverte-se a base e muda-se o sinal do expoente para positivo.
 
-	* (-5)<sup>2</sup> = (-5) x (-5)
-	* (-5)<sup>2</sup> = 25
+	- (-5)<sup>2</sup> = (-5) x (-5)
+	- (-5)<sup>2</sup> = 25
 
-* Nas frações, tanto o numerador quanto o denominador ficam elevados ao expoente.
+- Nas frações, tanto o numerador quanto o denominador ficam elevados ao expoente.
 
-	* (3/5)<sup>2</sup> = (3<sup>2</sup> / 5<sup>2</sup>)
-	* (3/5)<sup>2</sup> = 9/25
-
-<br>
+	- (3/5)<sup>2</sup> = (3<sup>2</sup> / 5<sup>2</sup>)
+	- (3/5)<sup>2</sup> = 9/25
 
 ___
 
-### Multiplicação e divisão de potências:
-
+### MULTIPLICAÇÃO E DIVISÃO DE POTÊNCIAS
 
 Na multiplicação, quando temos base de números iguais, mantemos a base e somamos os expoentes:
 
-* <b>5<sup>4</sup> x 5<sup>1</sup></b>
-* 5<sup>3</sup>
+- <b>5<sup>4</sup> x 5<sup>1</sup></b>
+- 5<sup>3</sup>
 
 Na divisão, subtraímos o expoente:
 
-* <b>5<sup>4</sup> ÷ 5<sup>2</sup></b>
-* 5<sup>2</sup>
+- <b>5<sup>4</sup> ÷ 5<sup>2</sup></b>
+- 5<sup>2</sup>
 
 
-### Potência de um produto:
+### POTÊNCIA DE UM PRODUTO
 
 O expoente que está fora dos parênteses, será o expoente dos fatores.
 
 (4 x 5)<sup>3</sup> = (4<sup>3</sup> x 5<sup>3</sup>)
 
-### Potência de expoentes iguais:
+### POTÊNCIA DE EXPOENTES IGUAIS
 
 Quando os expoentes forem iguais, conserva o expoente e multiplica a base.
 
 5<sup>2</sup> x 6<sup>2</sup> = (5 x 6)<sup>2</sup>
 
-
 ___
-
 
 ### REFERÊNCIAS
 
