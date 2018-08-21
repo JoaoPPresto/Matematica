@@ -65,13 +65,13 @@ Na divisão, subtraímos o expoente:
 
 O expoente que está fora dos parênteses, será o expoente dos fatores.
 
-(4 x 5)<sup>3</sup> = (4<sup>3</sup> x 5<sup>3</sup>)
+- (4 x 5)<sup>3</sup> = (4<sup>3</sup> x 5<sup>3</sup>)
 
 #### POTÊNCIA DE EXPOENTES IGUAIS
 
 Quando os expoentes forem iguais, conserva o expoente e multiplica a base.
 
-5<sup>2</sup> x 6<sup>2</sup> = (5 x 6)<sup>2</sup>
+- 5<sup>2</sup> x 6<sup>2</sup> = (5 x 6)<sup>2</sup>
 
 ___
 
