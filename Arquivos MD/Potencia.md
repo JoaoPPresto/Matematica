@@ -61,13 +61,13 @@ Na divisão, subtraímos o expoente:
 - 5<sup>2</sup>
 
 
-### POTÊNCIA DE UM PRODUTO
+#### POTÊNCIA DE UM PRODUTO
 
 O expoente que está fora dos parênteses, será o expoente dos fatores.
 
 (4 x 5)<sup>3</sup> = (4<sup>3</sup> x 5<sup>3</sup>)
 
-### POTÊNCIA DE EXPOENTES IGUAIS
+#### POTÊNCIA DE EXPOENTES IGUAIS
 
 Quando os expoentes forem iguais, conserva o expoente e multiplica a base.
 
